@@ -1,0 +1,1 @@
+C:\Gopher\src\Kitchen-Nightmares-VR\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

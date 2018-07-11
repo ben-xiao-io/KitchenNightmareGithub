@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Gamehandler\Gamehandler.cs">
+    <Files>
+      <File FileName="Assets\Plugins\BLINDED_AM_ME package\Scripts\MeshCut.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\BLINDED_AM_ME package\Scripts\ToolUser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\KnifeCutting.cs" Line="28" Column="24" />
+      <File FileName="Assets\Plugins\LeapMotion\Core\Scripts\Hands\HandEnableDisable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Gamehandler\Equipting.cs" Line="41" Column="29" />
+      <File FileName="Assets\Script\Gamehandler\Gamehandler.cs" Line="28" Column="3" />
+      <File FileName="Assets\Script\Camera_Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\LeapMotion\Core\Scripts\Utils\ProfilerSample.cs" Line="31" Column="1" />
+      <File FileName="Assets\Script\Cuttable.cs" Line="30" Column="13" />
+      <File FileName="Assets\Script\TyperWriteEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Achievements.cs" Line="34" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

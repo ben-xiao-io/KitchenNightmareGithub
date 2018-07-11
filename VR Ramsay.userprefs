@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D39D41F2-6B0E-CE6C-4106-9A3D0B353099}|">
+  <MonoDevelop.Ide.ItemProperties.VR_220Ramsay PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Camera_Move.cs">
+    <Files>
+      <File FileName="Assets/Script/Auto_Rotate.cs" Line="16" Column="42" />
+      <File FileName="Assets/Script/Camera_Move.cs" Line="28" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
